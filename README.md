@@ -19,14 +19,16 @@ En intéraction lors des enseignements, un quizz a pu être réalisé progressiv
 
 ### Travaux Pratiques - Logical Foundations
 
-A partir des exercices proposés par le Volume 1 de Software Foundations : Logical Foundations, des réponses ont été discutées :
+A partir des exercices proposés par le Volume 1 de Software Foundations : Logical Foundations, des réponses ont été proposées :
 
 - [Basics: Functional Programming in Coq](https://github.com/Naedri/IMT-Coq-revision_sheet/blob/main/Lectures/Basics.v)
 - [Induction: Proof by Induction](https://github.com/Naedri/IMT-Coq-revision_sheet/blob/main/Lectures/Induction.v)
 - [Lists: Working with Structured Data](https://github.com/Naedri/IMT-Coq-revision_sheet/blob/main/Lectures/Lists.v)
 - [Poly: Polymorphism and Higher-Order Functions](https://github.com/Naedri/IMT-Coq-revision_sheet/blob/main/Lectures/Poly.v)
 
-#### Tactiques
+#### Notes pour les réponses proposées
+
+##### Tactiques
 
 Les réponses sont données en utilisant un sous-ensemble restreint de tactiques.
 
@@ -39,7 +41,7 @@ Les réponses sont données en utilisant un sous-ensemble restreint de tactiques
 - `intros H1 ... HN.` : généralisation au cas de `N` paramètres.
 - `apply F.` : application de la fonction (hypothèse ou constructeur) `(F : A -> B)` pour prouver `B`, le but devenant `A`.
 
-#### Egalité - Analyse de cas et réécriture
+##### Egalité - Analyse de cas et réécriture
 
 L'égalité est définie inductivement ainsi.
 
