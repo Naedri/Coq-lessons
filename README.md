@@ -1,4 +1,4 @@
-# IIMT FIL Coq
+# IMT FIL Coq
 
 Ce répertoire a pout but de rassembler les notions vues dans le cadre du cours de programmation logique en Coq donné à l'[IMT](https://www.imt-atlantique.fr/fr/formation/ingenieur-par-apprentissage/ingenierie-logicielle).
 
